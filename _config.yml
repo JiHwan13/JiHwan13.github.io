@@ -20,7 +20,7 @@ title                    : "이지환"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이지환"
-description              : #" "
+description              : " "
 url                      : "https://jihwan13.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jihwan13/jihwan-13.github.io"
