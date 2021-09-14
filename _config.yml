@@ -20,7 +20,7 @@ title                    : "이지환"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이지환"
-description              : " "
+description              : "..."
 url                      : "https://jihwan1313.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jihwan13/jihwan13.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이지환"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "용인한국외국어대학교부설고등학교 재학"
+  bio              : ""
   location         : "대한민국, HAFS"
   email            :"21-20324@hafs.hs.kr"
   links:
