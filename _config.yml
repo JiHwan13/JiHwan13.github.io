@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이지환"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1200px-Unification_flag_of_Korea_(pre_2009).svg.png"
   bio              : ""
   location         : "대한민국, HAFS"
   email            : "21-20324@hafs.hs.kr"
